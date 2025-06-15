@@ -8,5 +8,8 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "server side for chatting-system"
+  "description": "server side for chatting-system",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
